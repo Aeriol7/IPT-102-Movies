@@ -18,5 +18,13 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    font-family: Arial, sans-serif;
+    margin-bottom: 100px;
+    background-color: #ffe6d0;
+}
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
